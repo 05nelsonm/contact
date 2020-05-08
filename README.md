@@ -3,7 +3,7 @@ Matthew Nelson
 
 PGP signed contact information for Matthew Nelson
 
------BEGIN PGP SIGNED MESSAGE-----
+-----BEGIN PGP SIGNED MESSAGE-----  
 Hash: SHA512
 
  * Email: [developer@matthewnelson.io](mailto:developer@matthewnelson.io)
