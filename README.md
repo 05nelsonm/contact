@@ -9,6 +9,7 @@ Hash: SHA512
  * Email: [developer@matthewnelson.io](mailto:developer@matthewnelson.io)
  * GitHub: [@05nelsonm](https://github.com/05nelsonm)
  * LinkedIn: [nelson-matthew](https://linkedin.com/in/nelson-matthew)
+ * Medium: [@matthewnelson.io](https://medium.com/@matthewnelson.io)
  * Telegram: [@x_05nelsonm_x](https://t.me/x_05nelsonm_x)
  * Twitter (Private): [@05nelsonm_](https://twitter.com/05nelsonm_)
  * Twitter (Public): [@05nelsonm_dev](https://twitter.com/05nelsonm_dev)
@@ -19,23 +20,23 @@ PGP Fingerprint: 8a48 f26c cdba 6706 ba4a 4ec4 6147 1b8a b389 0961
 -----BEGIN PGP SIGNATURE-----  
 
 iQJJBAEBCgAzLBxNYXR0aGV3IE5lbHNvbiA8ZGV2ZWxvcGVyQG1hdHRoZXduZWxz  
-b24uaW8+BQJetedgAAoJEIZ+7MacWcopz4MQAKkFkIaeab6VW8SQ2+brwyuajvTZ  
-AxRBK6BZQqZtmZsVjXSCrGTCgJi+VMovFM0rU/hAiyAfX24DBEjkfJ3Sa+p1yJGV  
-+OF/KGh1gPB0HsiJNLBKH9whevxDKN3A74nd4x/+NfyzpuQwkCL9JbctNg+VSUuL  
-5tEF92Hb6kwMYzsy3tXBWDuttgRamDLO2R+q6HsEtDBwXTq+a7lmTgw/0ORk3D0W  
-8dX3+U/nkzYMOPFQ4Tcb2lJThFbm9406NALR0bfqMWdhC4cJ3fBIZoH+PW0tMuha  
-gSaag9+31TU2ipho0bjMpK+qemRf9AocAmlqGbrqp6qvtbDmbJWP1/YSBUzVpvGp  
-7atwUE+QmFS2WU/5968B3xw++hdUirSyF+U9sIvTdpeBKWNj9AC5x8gUDujhm+zA  
-XJ4GiNu2dC/5Bqm7Y22PTyhX8BNa31kb7CY/D/5JuRko+ZwMROeakl/1i/PUw3Hl  
-XkqZrEU/4C/dMrx4k6m/Fw5f/Wt2a70xLw6f0w5F7R1qvqQsMO8xsqrqKbNVL7L8  
-+iANPUJUH61TlIK+VnZjIN9xtgwOGpk8pvLm89UIl7FJFCKvOBErOxyay5cxKnmU  
-MHRXk7tKQNYzVr24+SJ7Po+hvyD4VcjZUgY/YI+b0sWmhoyukL8CqXvYOnci8kN5  
-ONYVsZmo+AzZZL/J  
-=3o/K  
+b24uaW8+BQJete9HAAoJEIZ+7MacWcopz4MP/iPay7B2op6GzqW0st4ryY9qKynp  
+JoYV2jmRGRsmof2DI/zHKOTSAkeWGiYMbDTc/ynNf1Q7mRUIXOX4OZIPepI5UxY2  
+msJAbYdbeKIOoEFHOfNK/2KrdT4a2ghZ0LkA6U9s5qCi8q6w55h8egdbRSTCRjIq  
+SvtF3hWcrPzyCk8PFLydUN5u0o6AlFcqJnmOwkTEsFn8BVof/YdgrXoPzpCvyyty  
+5UHbZKn4dqt4q5GY8Z0aUbLjT2hILdL9Y1sMtj4+5ViSf1H5a5r4YmuG98kZ+7sV  
+hRiZeIbRYlR7Ajr+VNO229X+upw5iHFN+1jh3YRnmBhyhyMNICUT/I2Gd3g4ohpq  
+2sEl6NevTAavccSD/yZewfW0xogPiMmzYocuinOtSA27M/Q+97Y9+tYkFDDLz2pG  
+D69z0Cg5tgRO1wObUV0tNof7hE5fO/JFNFnkp4dxu9Mp9lJsoQlLJ3JTX3M8uMjC  
+XDKUvRQeFZlI5HI8kZOXowzodPxXOcAM/EisEmyX94dM2fFGfnDiSO2zvzbbns0G  
+yBYHC7Sy2eXbRVwQzj1IiXSO6FTDOIyjFO1aH8FOilZntKsc2sUuoPzDLY4lS9dU  
+t9IEig8DPp/+AtQTDo2X0cUft/wSqRpt6R2SEo0OGxgPVRXUoteBbztEGC6oXW6/  
+5b7F01TDcBram6R7  
+=sG7f  
 -----END PGP SIGNATURE-----  
   
 
-Verify:
+Verify:  
 ```
 $ wget https://raw.githubusercontent.com/05nelsonm/contact/master/PGP_MatthewNelson.txt && gpg --import PGP_MatthewNelson.txt
 $ wget https://raw.githubusercontent.com/05nelsonm/contact/master/README.md && gpg --verify README.md
