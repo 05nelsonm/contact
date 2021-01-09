@@ -9,6 +9,7 @@ Hash: SHA512
  * Email: [developer@matthewnelson.io](mailto:developer@matthewnelson.io)
  * GitHub: [@05nelsonm](https://github.com/05nelsonm)
  * LinkedIn: [nelson-matthew](https://linkedin.com/in/nelson-matthew)
+ * Mastadon: [@05nelsonm@bitcoinhackers.org](https://bitcoinhackers.org/@05nelsonm)
  * Medium: [@matthewnelson.io](https://medium.com/@matthewnelson.io)
  * Telegram: [@x_05nelsonm_x](https://t.me/x_05nelsonm_x)
  * Twitter (Private): [@05nelsonm_](https://twitter.com/05nelsonm_)
@@ -20,19 +21,19 @@ PGP Fingerprint: 8a48 f26c cdba 6706 ba4a 4ec4 6147 1b8a b389 0961
 -----BEGIN PGP SIGNATURE-----  
 
 iQJJBAEBCgAzLBxNYXR0aGV3IE5lbHNvbiA8ZGV2ZWxvcGVyQG1hdHRoZXduZWxz  
-b24uaW8+BQJete9HAAoJEIZ+7MacWcopz4MP/iPay7B2op6GzqW0st4ryY9qKynp  
-JoYV2jmRGRsmof2DI/zHKOTSAkeWGiYMbDTc/ynNf1Q7mRUIXOX4OZIPepI5UxY2  
-msJAbYdbeKIOoEFHOfNK/2KrdT4a2ghZ0LkA6U9s5qCi8q6w55h8egdbRSTCRjIq  
-SvtF3hWcrPzyCk8PFLydUN5u0o6AlFcqJnmOwkTEsFn8BVof/YdgrXoPzpCvyyty  
-5UHbZKn4dqt4q5GY8Z0aUbLjT2hILdL9Y1sMtj4+5ViSf1H5a5r4YmuG98kZ+7sV  
-hRiZeIbRYlR7Ajr+VNO229X+upw5iHFN+1jh3YRnmBhyhyMNICUT/I2Gd3g4ohpq  
-2sEl6NevTAavccSD/yZewfW0xogPiMmzYocuinOtSA27M/Q+97Y9+tYkFDDLz2pG  
-D69z0Cg5tgRO1wObUV0tNof7hE5fO/JFNFnkp4dxu9Mp9lJsoQlLJ3JTX3M8uMjC  
-XDKUvRQeFZlI5HI8kZOXowzodPxXOcAM/EisEmyX94dM2fFGfnDiSO2zvzbbns0G  
-yBYHC7Sy2eXbRVwQzj1IiXSO6FTDOIyjFO1aH8FOilZntKsc2sUuoPzDLY4lS9dU  
-t9IEig8DPp/+AtQTDo2X0cUft/wSqRpt6R2SEo0OGxgPVRXUoteBbztEGC6oXW6/  
-5b7F01TDcBram6R7  
-=sG7f  
+b24uaW8+BQJf+e4+AAoJEIZ+7MacWcopz4MP/RSVZaUTV/lSF0CzsK8p4X0rBc/o  
+E5hVuQgPTdTyIPNio9rz67ax3uua6NK57a3nI+p6I2dr5oiqUeTB9qoQeQqd1APw  
+a/dMKv82/aNZP+GIS+9BuXKH+ElB4K+d5SrWjA0R9pUYff8KR9sm1MmAuSd3KHBO  
+beG0PVkhDk7KHvV+AEVv+sw1zYi+MKOUfr4oJA6fQq3mHSjAOnr8CM53dNuDamjs  
+rnoeLpDyEMrqOQAtF03XmbjWaZb5puYozD08gMs9L02yg8M98JGlrVMXNPQZ91p/  
+eNpMFoW+MtpI7U7qIkiIOqtsAjJyg/gn9EPzuwdGUVGtevF4nMdiaRHlTcIckBiI  
+zC87XcOjsR3BF3T+Br3wa9TQGLXyNyAcgnEcxR9ILnEK7YV/9wTapYp8CspSK83N  
+Dy6yOZ5qXq5M/nAhRzHwKnLWietsb1QRlQ7ccA9SmD6CJu2gUqB9MqMnN43EqM9x  
+BRY0HPqpETN6uuZxKS43ExmzE+QGGdnj3pLdiVTeSLSSc6giNd3N0QvnHnq+Q+Jr  
+2Vjy3bPiBMWHDJ6uLRVlaIhxCa/I2SlIQt/p2gF9MwJZyq6L1dQ9+rX5+z0f0Yjo  
+iBVv5P6xXm/2bp0hB/YHObZR7AyAOKIFY/EZY/NYF4nKtPO3oj3eGToi3EYC82SX  
+/2OsvKVRtyE0dRut  
+=1wgv  
 -----END PGP SIGNATURE-----  
   
 
