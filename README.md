@@ -8,27 +8,28 @@ Hash: SHA512
 
  * Email: [developer@matthewnelson.io](mailto:developer@matthewnelson.io)
  * GitHub: [@05nelsonm](https://github.com/05nelsonm)
- * Medium: [@matthewnelson.io](https://medium.com/@matthewnelson.io)
+ * Nostr: [_@matthewnelson.io](https://snort.social/p/npub1j3fs72nlngpdgy2njn0rycd0f45lyv8r0j45sjvqcdmszzc0agmqvh7lq8)
  * Telegram: [@x_05nelsonm_x](https://t.me/x_05nelsonm_x)
+ * Medium: [@matthewnelson.io](https://medium.com/@matthewnelson.io)
  * Website: [matthewnelson.io](https://matthewnelson.io)
 
 PGP Fingerprint: 8a48 f26c cdba 6706 ba4a 4ec4 6147 1b8a b389 0961
 
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEMB5Ogdtqf60b3QZrhn7sxpxZyikFAmOfFCEACgkQhn7sxpxZ  
-yilMORAAqbYp2s5FI+0g8PQx2AiHIK9utNlW+gki0bhwez2qGMLd7Gv6+OVXhg38  
-fx4V3YsEvNB6pV7PJgl8e18gmM7E1nl9wL+HHuZ+toMm5grI9NRXDCE8u3/WGPWu  
-+kfbmngXRYq/tkgKsmXbQQ5+zENRzwBbTSGo404IBGdUgb3ej6nlUR9igzrlTcMP  
-Do9Ze6RZSahENrDc2DKmJzfyUXx1SBuSiQpW7lKHSVDkghnLWXKtpFWbZzL4F1Lu  
-SV+wRqGFZLaWdZcCbtq8f/z99/DyxZSwCcW1wctCtKTIjynM7kOotdICls9hNXcP  
-R6+sWgKszKea+yFfNstfFvPPN45AY2NxIE4XloTB3PJ2CxIOWR3logkbwv+gFtgS  
-OvqV40WbMQBTE6Ne1Txd05Qk2X5gPW9xeN/+LoSVAtAJSa9iOGFjM0dgR9pVo4go  
-J4gJmmvKnF7xCtgEg9r76fjyZ/7Gkn+nwGkeiPNkLxMcq8piUyk+wsvTugnGN1uJ  
-eg1Kzc8x8U4ANWLu012erW8js5CxkWeA29difD4go6nJ7E7R5Db3uDvtKaViKFQN  
-vzWyGvUrPYcmI4Fit9GzK6Bq8tojuWbNbjSKoQKkxNIax6/R3HwifuR3bEz9BPWM  
-AExRiK+Uu7CXFv+LeePgCZDCsqnZ1txGihMU+dVpyR8m9uEPGIk=  
-=ahOm  
+iQIzBAEBCgAdFiEEMB5Ogdtqf60b3QZrhn7sxpxZyikFAmQE6KQACgkQhn7sxpxZ  
+yinECw/+L14dxAeOltay+ymCh7aPZLEv3xE3T7OF/rPoQAczZsCcresZkOj39F07  
+P+uz1/aqfjV9XHAEcM/T0Y6vwsbIf5Kg3mD6GcSRvsB9a01tUtV9X1SMPV2uYbYe  
+HuocquUR6HPDlw20uiykYHqPD6qBdBcwK9GMdVheNGgtYS24q1WIB2QCOGGf7HEu  
+tWt8oLBPz9QrtpVO5NfhC5mOrWuKc7cgp/VE/XiVP01StYSLkZQhBiL0WkGAOp6I  
+Sb6/ilS0GmeO70mEhXnzlVKFdHs44s/t+Jo5DUktdlUXMQCrVclqoAK8kMY2wH/1  
+1TWbKDeb3BYVyuiXtvvgzFRNqk6jh3KGA2unE107EJA/71Nku7EmLtdTxiiadsDE  
+b00uOZK7y1ufBjl/wwBXq++FJjWUwOSCWrCT90LGWGc6h+T/lc3FDO6dpsiCXyyF  
+S/TBu4JBPaiZg3wGInnvl4k6nLG3qlR9SUZfeR22CJeCzDd61CT6FpOMJ9OFnv0F  
+ZpLJY/Dg7ZohyDGgDE0qbf6wmjR5Nz/Ppwtec+Q/DpRjI9uqV/16u2jr2rwUjNJc  
+rDHG2twt0cKY6Q7jiJJb/UaxELwWfP/Ttck0nLaHOCdoX1JyApEN0e16t8480FF7  
+O09zKzhi7exh5MM/Ur1N6Qv0DXtjGwULGGOj1WN3pwmEhXBtDOA=  
+=YllO  
 -----END PGP SIGNATURE-----  
 
 Verify:  
