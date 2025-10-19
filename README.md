@@ -8,29 +8,28 @@ Hash: SHA512
 
  * Email: [developer@matthewnelson.io](mailto:developer@matthewnelson.io)
  * GitHub: [@05nelsonm](https://github.com/05nelsonm)
- * Nostr: [_@matthewnelson.io](https://snort.social/p/npub1j3fs72nlngpdgy2njn0rycd0f45lyv8r0j45sjvqcdmszzc0agmqvh7lq8)
+ * Nostr: [_@matthewnelson.io](https://primal.net/p/npub1j3fs72nlngpdgy2njn0rycd0f45lyv8r0j45sjvqcdmszzc0agmqvh7lq8)
  * Telegram: [@x_05nelsonm_x](https://t.me/x_05nelsonm_x)
- * Medium: [@matthewnelson.io](https://medium.com/@matthewnelson.io)
  * Website: [matthewnelson.io](https://matthewnelson.io)
 
 PGP Fingerprint: 8a48 f26c cdba 6706 ba4a 4ec4 6147 1b8a b389 0961
 
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEMB5Ogdtqf60b3QZrhn7sxpxZyikFAmfIjz4ACgkQhn7sxpxZ  
-yik/aBAApPfa1Sdz++z0f1NSqfXYAEEH7mb6mU7e4PjbY23iwcvnA2BR0cp/jvLL  
-WxgYTW149zHIyl5LkjL4R/ZhlJwgtzha3a8epfl2EJkp+PnZGQs6BAGMQTkOQQML  
-mZtlY/TSsR5+ufGFGLN/QHovnTPZsA4Z1iH/X/H/8GhEi335HYJB8wHMjWDDyMxl  
-eSQ6/OcPdyd9XbxMR273dNwMowIMsLV4f4Q4KZuqmsZOpWMtOdZrVsiJx7Ws69HC  
-X7Aa5ymIX6Ytm45RlAkk4He02PmqqSojfRq0uyyiSFO8zyEMoCRX20fr9GV9ZT1K  
-4a75wcIk3b5L1LdxFA7WDlHOs7ugRhFe/b2T+DzoNQ1EdjJuGcVXGV8JgwjGDGQT  
-JdQ2I6BN+NVCqCJR/0SF5lNICFySLAMuyl6nQ45XLsrosQynJbNQPOErvMHVWHbs  
-u9fKpOpYKLmrKl1mfyKUg5xVX9rRLvA7od7AMYEB4BnPJcMQ63QYkTMZmK7jlxbl  
-WNKxCqQpy/ratgU9SlgOw5Ojdg5dZ36tEGS5FahtImJoGVF3cOvvfsobo7fNRfiV  
-I+Od2wszJRqSoveYLyqmYkPcBAsBXEYQmRMDPRqwYdIjsszFjHySk4cidyfhTcLP  
-k+Y9AfvvXgNvbGe/ONqraSR9ln7J3/lDtvqbUhvEpzZ0C6PTauA=  
-=U5vt  
------END PGP SIGNATURE-----  
+iQIzBAEBCgAdFiEEMB5Ogdtqf60b3QZrhn7sxpxZyikFAmj1NisACgkQhn7sxpxZ  
+yin2UhAAwyb+1Z6XWp/STHHZm9D3K97McJnY+g16TQhu7U8gghs9nvENlRzt2zOm  
+viqY3kKofrU4+ynnCuRumkOdsMltUpyXlEV0bwnexSrPiiQFJNyKTZapVW1fp/8Y  
+H4zS9j15KrAQW58nShkYgrsGy1RzWuw3TjZGDTeK7RMMkfo5q6P3U8kzJWFIoZbQ  
+6jtUNZcLK5iz79Hg9p6cZI51fcB/EXZMF28oLMJUZBrZ/xPkwvTBjVHxvd206Z2m  
+Brpo9t8JeMbi3kOW2+jZ1V7u14Vy926NajU1/txw9HFpy09wJr1nTP368+nRFt3f  
+wdgC9dJmXuM6GNwxg9bySv2LOh2BEvxrXkLqqieji/YfbKA2AqL22vDAMy0pRWSq  
+MrZ2N6LOzHn/wtO8wZiCSJymGCOZThHbrOsDvitZQgl7O/amRqFT76g0E6Cfwv2X  
+Es3CR/38FliM76Pxu4jKPNW+hGVXQwr/0l2q2RadNC8J9ZjURtNpwYiHbSHrvCL9  
+2uoOL/Uazn5a8rT6cT9pyCUgbxL6h7oBt40J/1bWjTKMEJBELOwYS9Qd/i2WhZG9  
+Tb3i4iakDB2ZP+8ur7f2Sj5lNx/PpwnRrg6K1SnLh4SJe+ucsYHJxJ4KHxQPW6k1  
+Pp8xmzb//OBayKQxPvqZK0AL8K/gAEuZxdQKTrIeJiyF1vOg2Jk=  
+=5saD  
+-----END PGP SIGNATURE-----
 
 Verify:  
 ```
